@@ -133,6 +133,10 @@ main{
     align-items: center;
     flex-direction: column;
     padding: 70px 100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .banner h3{
     color:#29d9d5;
